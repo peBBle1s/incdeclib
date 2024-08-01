@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='incdelib',
+    name='incrdecrlib',
     version='0.1',
     packages=find_packages(),
     description='A custom number library with increment and decrement methods',
