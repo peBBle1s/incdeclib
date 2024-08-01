@@ -1,6 +1,6 @@
-# incdeclib
+# incrdecrlib
 
-incdeclib is a custom number library with increment and decrement methods.
+incrdecrlib is a custom number library with increment and decrement methods.
 
 ## Installation
 
